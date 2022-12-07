@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+body{
+	font-family: 'Cairo', sans-serif !important;
+
+}
+
+.bg-soft-primary {
+  background-color: rgb(106 106 106 / 61%) !important;
+  display: flex !important;
+  justify-content: space-between;
+}
+
+li.category-nav-element {
+  padding-top: 5px !important;
+}
+.collapse:not(.show) {
+    display: block !important; 
+}
